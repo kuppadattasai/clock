@@ -1,0 +1,32 @@
+/* @font-face{
+    font-family:'digital-clock-font';
+    src: url('put_the_location_to_your_font.ttf or .otf');
+   } */
+.container{
+    background-color: red;
+    margin:8px 215px;
+    height: 250px;
+    border-radius: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.clock{
+    background-color: black;
+    height: 203px;
+    width: 930px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.handler{
+    
+    
+    font-size: 180px;
+}
+
+.body{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+}
